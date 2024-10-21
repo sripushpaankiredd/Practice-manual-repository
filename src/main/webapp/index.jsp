@@ -1,6 +1,7 @@
 <html>
 <body>
 <h2>Registration Form</h2>
+<h2>Updated Form</h2>
 <form>
 <table>
 <center>
